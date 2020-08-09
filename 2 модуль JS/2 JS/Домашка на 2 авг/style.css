@@ -1,0 +1,30 @@
+#divA{
+    width: 175px;
+    height:50px ;
+    background-color:plum;
+    color:black;
+    margin-left:45%;
+}
+#btnA {
+
+margin-left:45%;
+}
+#inTxtA {
+    margin-left:45%;
+    background-color: cyan;
+}
+#divB{
+    width: 175px;
+    height:50px ;
+    background-color:plum;
+    color:black;
+    margin-left:45%;
+}
+#btnB {
+
+margin-left:45%;
+}
+#inTxtB {
+    margin-left:45%;
+    background-color: cyan;
+}

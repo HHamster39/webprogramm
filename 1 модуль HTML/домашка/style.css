@@ -1,0 +1,105 @@
+table{
+	 width:100px;
+	 height:300px; 
+	 text-align: center; 
+     margin-left:42% ;
+     background: gray;
+      }
+
+
+
+table {border: 2px solid black;
+} 
+
+
+td {
+	border: 2px solid black;
+	border-radius:100%
+  }
+tr{
+	background: white;
+}
+.trafficLights {
+     width:100px;
+	 height:100px; 
+	 text-align: center; 
+     margin-left:42% ;
+     border-radius:100% 	
+}
+#red{
+	animation-name: green;
+	animation-duration: 6s;
+	animation-iteration-count: infinite;
+}
+#yellow{
+	animation-name: green;
+	animation-duration: 6s;
+	animation-iteration-count: infinite;
+}
+#green{
+	animation-name: green;
+	animation-duration: 6s;
+	animation-iteration-count: infinite;
+}
+@keyframes red {
+	0%{
+       background-color: red; 
+	}
+	15%{
+       background-color: red;
+	}
+	16%{
+       background-color: white;
+	}
+	21%{
+        background-color: red;
+	}
+	26%{
+        background-color: white;
+	}
+	100%{
+        background-color: white;
+	}
+} 
+@keyframes yellow {
+	0%{
+       background-color:yellow ; 
+	}
+	16%{
+       background-color: yellow; 
+   	}
+	17%{
+       background-color: white; 
+	}
+	22%{
+       background-color: yellow; 
+	}
+	27%{
+       background-color: white; 
+	}
+	100%{
+		background-color:white ; 
+	}
+} 
+@keyframes green {
+	0%{
+
+	}
+	17%{
+
+	}
+	18%{
+
+	}
+	23%{
+
+	}
+	28%{
+
+	}
+	100%{
+		
+	}
+} 
+
+

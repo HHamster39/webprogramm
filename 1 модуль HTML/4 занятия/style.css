@@ -1,0 +1,40 @@
+table{
+	 width:400px;
+	 height:300px; 
+	 text-align: center; 
+     margin-left:35% ;
+
+}
+
+h1 {
+	margin-left:40%;
+    color: purple;
+}
+td {
+	width:900px;
+    height:900px;
+    background-image:url(https://tattoo-stickers.ru/41918-thickbox_default/smaylik.jpg)
+    background-size:contain;
+}
+td{
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-name: rotation; 
+}
+
+@keyframes rotation{
+    from{
+        background-size: 200px;
+    }
+
+    50%{
+        background-size: 50px;
+    }
+
+
+    to{
+        background-size: 200px;
+    }
+}
+
+

@@ -1,0 +1,50 @@
+table{
+	 width:500px;
+	 height:500px; 
+	 text-align: center; 
+     margin-left:32% ;
+    }
+td {
+	border: 2px solid black;
+	transition: 99999999999s linear;
+	}  
+.cell:hover:nth-child(2n) {
+     background-color: red;
+     transition: 0s linear; 
+} 
+.cell:hover:nth-child(1) {
+     background-color: red;
+     transition: 0s linear background-color; 
+} 
+.cell:hover:nth-child(1) {
+     background-color: red;
+     transition: 0s linear background-color; 
+} 
+.cell:hover:nth-child(1) {
+     background-color: red;
+     transition: 0s linear background-color; 
+} 
+.cell:hover:nth-child(1) {
+     background-color: red;
+     transition: 0s linear background-color; 
+} 
+.cell:hover:nth-child(1) {
+     background-color: red;
+     transition: 0s linear background-color; 
+} 
+.cell:hover:nth-child(6) {
+     background-color: red;
+     transition: 0s linear background-color; 
+} 
+.cell:hover:nth-child(7) {
+     background-color: red;
+     transition: 0s linear background-color; 
+} 
+.cell:hover:nth-child(8) {
+     background-color: red;
+     transition: 0s linear background-color; 
+} 
+.cell:hover:nth-child(9) {
+     background-color: red;
+     transition: 0s linear background-color; 
+} 

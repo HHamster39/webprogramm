@@ -1,0 +1,26 @@
+table{
+	 width:500px;
+	 height:500px; 
+	 text-align: center; 
+     margin-left:35% ;
+     
+}
+td {
+	border: 2px solid black;
+    width:70px; 
+	}
+a  link:{
+     font-weight: bold;
+    font-size: 18pt;
+    color:blue;
+
+}
+a :visited {
+	color :green;
+} 
+.kostyl {
+	width:70px;
+	height:70px; 
+	text-align: center; 
+	
+}

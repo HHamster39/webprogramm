@@ -1,0 +1,11 @@
+let result;
+let a=1234567887654321;
+let b=1234567890987654321;
+result=b/a ;
+alert("The cat is very cute") ;
+alert("The dog is very sweet") ;
+alert("The parrot is very well") ;
+alert("The hamster is very nice") ;
+alert("The rebbit is very lovely") ;
+txt.innerHTML = result;
+result1.innerHTML=a*2 - b*2*a + result*0; 

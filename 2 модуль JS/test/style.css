@@ -1,0 +1,14 @@
+#divA{
+    width:100px ;
+    height:50px ;
+    background-color:plum;
+    margin-left:42%;
+}
+#divB{
+    width:100px;
+    height:100px;
+    background-color:cyan;
+    border-radius:100% ;
+    margin-left:42%;
+}
+
