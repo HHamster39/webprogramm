@@ -1,0 +1,25 @@
+.circle{
+    display:inline-block;
+    border-radius:56% ;
+    width: 50px;
+    height:50px ;
+    background-color:cyan;
+    
+    
+    
+    
+}
+#field{
+   
+    margin-left:45% ;
+    
+}
+.lime{
+    background-color:lime !important;
+}
+.odd{
+    border-radius:100% !important;
+    transition:5s   ease                 !important;
+}
+
+    
